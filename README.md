@@ -1,14 +1,4 @@
-### Hi there, I'm [Zhiheng!](https://zhihengdev.com/) 👋
-
-<a href="https://www.linkedin.com/in/zhiheng-devhabit">
-  <img align="left" alt="Zhiheng Sun | Linkedin" width="20px" src="https://raw.githubusercontent.com/DevHabit/DevHabit/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/sun_zhiheng">
-  <img align="left" alt="Zhiheng Sun | Twitter" width="21px" src="https://raw.githubusercontent.com/DevHabit/DevHabit/master/assets/twitter.svg" />
-</a>
-<a href="https://www.zhihengdev.com">
-  <img align="left" alt="Zhiheng Sun | Website" width="21px" src="https://raw.githubusercontent.com/DevHabit/DevHabit/master/assets/globe.png" />
-</a>
+### Hi there, I'm [Spaceboy!]👋
 
 <br />
 <br />
