@@ -49,6 +49,5 @@ Platform&Tools
     - 👯 I’m looking to collaborate on <a href="https://github.com/iamkun/dayjs"><img src="https://user-images.githubusercontent.com/17680888/39081119-3057bbe2-456e-11e8-862c-646133ad4b43.png" width="30" height="20" />DayJS</a><br />
     - 🤔 I’m looking for help with <a href="https://angular.io/">Angular</a><br />
     - 💬 Ask me about Javascript, Vue, React, React Native, php, Laravel, node.js and more... 😉<br />
-    - 📫 How to reach me: jsgrowing315@outlook.com longines0924@gmail.com<br />
     - ⚡ Fun fact: I am keen on fishing 🎣🐟🐠🦈<br />
     
